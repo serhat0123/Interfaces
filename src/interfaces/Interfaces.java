@@ -16,8 +16,12 @@ public class Interfaces {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        int a=5;
-       
+      
+       int b=13;
+        for (int a = 5; a<=b; a++) {
+                System.out.println("w");
+            }
+        }
     }
     
-}
+
